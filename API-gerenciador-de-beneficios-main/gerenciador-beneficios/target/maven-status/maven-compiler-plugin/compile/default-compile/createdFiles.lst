@@ -1,0 +1,6 @@
+br\com\digix\gerenciador\dto\DependenteBeneficioDto$DependenteBeneficioDtoBuilder.class
+br\com\digix\gerenciador\model\DependenteBeneficioModelo.class
+br\com\digix\gerenciador\dto\DependenteBeneficioDto.class
+br\com\digix\gerenciador\dto\FamiliaBeneficioDto.class
+br\com\digix\gerenciador\dto\FamiliaBeneficioDto$FamiliaBeneficioBiulder.class
+br\com\digix\gerenciador\model\FamiliaBeneficioModelo.class

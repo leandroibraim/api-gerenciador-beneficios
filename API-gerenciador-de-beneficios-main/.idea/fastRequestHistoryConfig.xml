@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestHistoryConfig">
+    <option name="historyList">
+      <list>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="[{&quot;id&quot;:1,&quot;nomeFamilia&quot;:&quot;trapo&quot;,&quot;status&quot;:1,&quot;renda&quot;:3000,&quot;pontos&quot;:3,&quot;numeroGeristro&quot;:123456789,&quot;totalDeFamiliasBeneficiadas&quot;:10,&quot;dependentes&quot;:[]}]" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="[{&quot;id&quot;:1,&quot;nomeFamilia&quot;:&quot;trapo&quot;,&quot;status&quot;:1,&quot;renda&quot;:3000,&quot;pontos&quot;:3,&quot;numeroGeristro&quot;:123456789,&quot;totalDeFamiliasBeneficiadas&quot;:10,&quot;dependentes&quot;:[]}]" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="204" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="Error request, response status: 400" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="Error request, response status: 400" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="Read timed out" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;,&#10;  &quot;dependentes&quot;:  &quot;3&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 71&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;dependentes&quot;:&quot;3&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T23:01:07.765+00:00&quot;,&quot;status&quot;:400,&quot;error&quot;:&quot;Bad Request&quot;,&quot;path&quot;:&quot;/familias&quot;}" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;,&#10;  &quot;dependentes&quot;:  3&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 69&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;dependentes&quot;:3,&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T22:59:33.537+00:00&quot;,&quot;status&quot;:400,&quot;error&quot;:&quot;Bad Request&quot;,&quot;path&quot;:&quot;/familias&quot;}" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;,&#10;  &quot;dependentes&quot;:  &quot;3&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 71&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;dependentes&quot;:&quot;3&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T22:59:02.897+00:00&quot;,&quot;status&quot;:400,&quot;error&quot;:&quot;Bad Request&quot;,&quot;path&quot;:&quot;/familias&quot;}" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;,&#10;  &quot;dependentes&quot;:  &quot;3&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 71&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;dependentes&quot;:&quot;3&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T22:58:42.971+00:00&quot;,&quot;status&quot;:400,&quot;error&quot;:&quot;Bad Request&quot;,&quot;path&quot;:&quot;/familias&quot;}" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;,&#10;  &quot;dependentes&quot;:  &quot;3&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 71&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;dependentes&quot;:&quot;3&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T22:58:27.609+00:00&quot;,&quot;status&quot;:400,&quot;error&quot;:&quot;Bad Request&quot;,&quot;path&quot;:&quot;/familias&quot;}" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;Invoker&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot;3000&quot;,&#10;  &quot;dependentes&quot;:  &quot;3&quot;&#10;  &#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 71&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;dependentes&quot;:&quot;3&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot;3000&quot;,&quot;nome&quot;:&quot;Invoker&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T22:57:46.323+00:00&quot;,&quot;status&quot;:400,&quot;error&quot;:&quot;Bad Request&quot;,&quot;path&quot;:&quot;/familias&quot;}" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="[{&quot;id&quot;:5,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:1,&quot;renda&quot;:2000,&quot;pontos&quot;:3,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]},{&quot;id&quot;:56,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:11,&quot;renda&quot;:2000,&quot;pontos&quot;:2,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]},{&quot;id&quot;:2,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:1,&quot;renda&quot;:2000,&quot;pontos&quot;:2,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]},{&quot;id&quot;:50,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:11,&quot;renda&quot;:2000,&quot;pontos&quot;:1,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]}]" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;Request Body: &#13;&#10;    null&#13;&#10;" />
+          <option name="response" value="ConnectException: Connection refused: no further information" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;leandro&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot; 900&quot;&#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 53&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;rendaFamilia&quot;:&quot; 900&quot;,&quot;nome&quot;:&quot;leandro&quot;}&#13;&#10;" />
+          <option name="response" value="Read timed out" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;nome&quot;: &quot;leandro&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;,&#10;  &quot;rendaFamilia&quot;: &quot; 900&quot;&#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 31&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;pontos&quot;:&quot;5&quot;,&quot;nome&quot;:&quot;leandro&quot;}&#13;&#10;" />
+          <option name="response" value="Error request, response status: 400" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="400" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;idade&quot;: &quot;20&quot;,&#10;  &quot;nome&quot;: &quot;leandro&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;&#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 44&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;idade&quot;:&quot;20&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;nome&quot;:&quot;leandro&quot;}&#13;&#10;" />
+          <option name="response" value="Error request, response status: 400" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;idade&quot;: &quot;20&quot;,&#10;  &quot;nome&quot;: &quot;leandro&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;&#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="methodType" value="POST" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 44&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;idade&quot;:&quot;20&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;nome&quot;:&quot;leandro&quot;}&#13;&#10;" />
+          <option name="response" value="Read timed out" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="200" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;idade&quot;: &quot;20&quot;,&#10;  &quot;nome&quot;: &quot;leandro&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;&#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="http://localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 44&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;idade&quot;:&quot;20&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;nome&quot;:&quot;leandro&quot;}&#13;&#10;" />
+          <option name="response" value="[{&quot;id&quot;:5,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:1,&quot;renda&quot;:2000,&quot;pontos&quot;:3,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]},{&quot;id&quot;:56,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:11,&quot;renda&quot;:2000,&quot;pontos&quot;:2,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]},{&quot;id&quot;:2,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:1,&quot;renda&quot;:2000,&quot;pontos&quot;:2,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]},{&quot;id&quot;:50,&quot;nome&quot;:&quot;Ibraim&quot;,&quot;status&quot;:11,&quot;renda&quot;:2000,&quot;pontos&quot;:1,&quot;numeroGeristro&quot;:123,&quot;buscaTodasFamiliasContempladas&quot;:10,&quot;dependentes&quot;:[]}]" />
+          <option name="url" value="http://localhost:8080/familias" />
+        </ResponseHistory>
+        <ResponseHistory>
+          <option name="className" />
+          <option name="code" value="404" />
+          <option name="enableEnv" value="test" />
+          <option name="enableProject" value="gerenciador" />
+          <option name="method" />
+          <option name="methodType" value="GET" />
+          <option name="paramGroup">
+            <ParamGroupCollection>
+              <option name="bodyKeyValueListJson" value="{&#10;  &quot;idade&quot;: &quot;20&quot;,&#10;  &quot;nome&quot;: &quot;leandro&quot;,&#10;  &quot;pontos&quot;: &quot;5&quot;&#10;}" />
+              <option name="methodDescription" value="New Request" />
+              <option name="multipartKeyValueListJson" value="[]" />
+              <option name="pathParamsKeyValueListJson" value="[]" />
+              <option name="url" value="localhost:8080/familias" />
+              <option name="urlEncodedKeyValueListJson" value="[]" />
+              <option name="urlParamsKeyValueListJson" value="[]" />
+            </ParamGroupCollection>
+          </option>
+          <option name="requestInfo" value="Request Url: http://localhost:8080/localhost%3A8080/familias&#13;&#10;Request Headers: &#13;&#10;    Accept: application/json,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8&#13;&#10;    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 Hutool&#13;&#10;    Accept-Encoding: gzip, deflate&#13;&#10;    Accept-Language: zh-CN,zh;q=0.8&#13;&#10;    Content-Length: 44&#13;&#10;    Content-Type: application/json;charset=UTF-8&#13;&#10;Request Body: &#13;&#10;    {&quot;idade&quot;:&quot;20&quot;,&quot;pontos&quot;:&quot;5&quot;,&quot;nome&quot;:&quot;leandro&quot;}&#13;&#10;" />
+          <option name="response" value="{&quot;timestamp&quot;:&quot;2022-10-03T22:25:26.080+00:00&quot;,&quot;status&quot;:404,&quot;error&quot;:&quot;Not Found&quot;,&quot;path&quot;:&quot;/localhost%3A8080/familias&quot;}" />
+          <option name="url" value="localhost:8080/familias" />
+        </ResponseHistory>
+      </list>
+    </option>
+  </component>
+</project>
